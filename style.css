@@ -57,3 +57,19 @@ ul {
 .navbar ul li {
     margin-left: 15px;
 }
+
+.header {
+    background: #1f2937;
+    color: white;
+    min-height: 400px;
+}
+
+.header h1 {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.header p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
