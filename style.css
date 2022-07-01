@@ -155,3 +155,38 @@ img {
     justify-content: flex-end;
     padding: 5px 40px;
 }
+
+.sign {
+    min-height: 300px;
+}
+
+.sign .box {
+    padding: 100px 0px;
+}
+
+.sign .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+    min-height: 125px;
+    padding: 0px 125px;
+    background: #3882f6;
+    color: white;
+}
+
+.sign .container .text .call {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sign .up {
+    background: #3882f6;
+    color: white;
+    padding: 10px 35px;
+    font-size: 15px;
+    font-weight: bold;
+    border-style: solid;
+    border-color: white;
+    border-radius: 15px;
+}
