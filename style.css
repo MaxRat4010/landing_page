@@ -173,6 +173,7 @@ img {
     padding: 0px 125px;
     background: #3882f6;
     color: white;
+    max-width: 1150px;
 }
 
 .sign .container .text .call {
